@@ -14,12 +14,11 @@ git clone https://github.com/hws-Code/spring-23.git
 
 If you would like to contribute to this repository, please follow these steps:
 
-1. Fork this repository
-2. Fork the repository to your own GitHub account.
-3. Clone the repository to your local machine.
-4. Make the changes you would like to contribute.
-5. Commit the changes and push them to your fork.
-6. Submit a pull request to the main repository.
+1. Fork the repository to your own GitHub account.
+2. Clone the repository to your local machine.
+3. Make the changes you would like to contribute.
+4. Commit the changes and push them to your fork.
+5. Submit a pull request to the main repository.
 
 ## Questions
 
